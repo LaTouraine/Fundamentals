@@ -1,6 +1,7 @@
-/*
- * Variables, Data Types, and Typing
- */
+/*...*/
+/*...*/
+/*...*/
+/*...*/
 
 //              0  1  2  3  4
 let ourArray = [1, 2, 3, 4, ['a', 'b', 'c']];

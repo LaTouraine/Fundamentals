@@ -1,6 +1,7 @@
-/*
- * Variables, Data Types, and Typing
- */
+/*...*/
+/*...*/
+/*...*/
+/*...*/
 
 let x = 10;
 

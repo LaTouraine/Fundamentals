@@ -1,6 +1,7 @@
 /*
  * Variables, Data Types, and Typing
  */
+
 let variable : string = "string";
 
 let var1 = "2";
